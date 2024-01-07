@@ -1,0 +1,6 @@
+bg1: https://unsplash.com/fr/photos/un-ciel-bleu-fonce-avec-quelques-etoiles-pVy76gJ7F_U
+bg2: https://wallpapers.com/wallpapers/1920x1080-hd-space-ch4q1u4ghgt489te/download
+bg3: https://wallpapers.com/picture/aurora-pictures-a17n0wrx08blux6i/download
+bg4: https://wallpapers.com/wallpapers/moon-in-space-galaxy-tablet-jtjdr5p5phaerpoo/download
+
+All bg_previews are edits from the original picture.
