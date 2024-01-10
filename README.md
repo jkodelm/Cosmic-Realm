@@ -15,7 +15,7 @@ For developers, docstrings and comments should be straightforward and easy to un
 
 ## CUSTOMIZATION ##
 
-You have plenty of resources you can change; here's a quick explanation below.
+You have plenty of resources you can change, here's a quick explanation below.
 
 - Cosmic_Realm.py: A few actions can be removed or added (4 lines), you have a comment on what they do next to them.
 - CR_Variables.py: Many variables you can change to your liking, explained there as well. Colors, spawn rate and a lot of settings avaiable.
