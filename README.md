@@ -1,4 +1,4 @@
-Welcome to Cosmic Realm! Made by jKLm on GitHub.
+Welcome to Cosmic Realm! Made by jkodelm on GitHub.
 
 ## DESCRIPTION: ##
 
